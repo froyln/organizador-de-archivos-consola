@@ -1,0 +1,9 @@
+C:\Users\froyl\source\repos\OrganizadorDeArchivos\OrganizadorDeArchivos\bin\Debug\OrganizadorDeArchivos.exe.config
+C:\Users\froyl\source\repos\OrganizadorDeArchivos\OrganizadorDeArchivos\bin\Debug\OrganizadorDeArchivos.exe
+C:\Users\froyl\source\repos\OrganizadorDeArchivos\OrganizadorDeArchivos\bin\Debug\OrganizadorDeArchivos.pdb
+C:\Users\froyl\source\repos\OrganizadorDeArchivos\OrganizadorDeArchivos\obj\Debug\OrganizadorDeArchivos.csproj.AssemblyReference.cache
+C:\Users\froyl\source\repos\OrganizadorDeArchivos\OrganizadorDeArchivos\obj\Debug\OrganizadorDeArchivos.csproj.CoreCompileInputs.cache
+C:\Users\froyl\source\repos\OrganizadorDeArchivos\OrganizadorDeArchivos\obj\Debug\OrganizadorDeArchivos.exe
+C:\Users\froyl\source\repos\OrganizadorDeArchivos\OrganizadorDeArchivos\obj\Debug\OrganizadorDeArchivos.pdb
+C:\Users\froyl\source\repos\OrganizadorDeArchivos\OrganizadorDeArchivos\obj\Debug\OrganizadorDeArchivos.Properties.Resources.resources
+C:\Users\froyl\source\repos\OrganizadorDeArchivos\OrganizadorDeArchivos\obj\Debug\OrganizadorDeArchivos.csproj.GenerateResource.cache
